@@ -15,4 +15,4 @@ Most of my day-to-day work lives in private repos, so here is what you can actua
 
 **Where I've been:** Routescan · Avascan (VP of Engineering) · Equixly (AI API security) · Rogue Waves (applied AI) · ShippyPro
 
-📫 [LinkedIn](https://www.linkedin.com/in/andrea-acanfora) · acanfora.andrea@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/andrea-acanfora-988179a8/en) · acanfora.andrea@gmail.com · open to remote product engineering roles in Web3 and AI
