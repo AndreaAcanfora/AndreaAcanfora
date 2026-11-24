@@ -5,7 +5,7 @@ Florence, Italy · fully remote, CET with flexible overlap on US hours
 
 I build the frontend of [Routescan](https://routescan.io) and [Snowtrace](https://snowtrace.io), a family of blockchain explorers serving **millions of monthly users** across **dozens of chains**, with **hundreds of transactions per second** of live data. Lately I also work on the AI side: the streaming chat assistant on Snowtrace that answers questions about live on-chain data through tool calls.
 
-10 years shipping production web software, the last four in Web3. Before Routescan I was VP of Engineering at Avascan.
+11 years shipping production web software, the last four in Web3. Before Routescan I was VP of Engineering at Avascan.
 
 ### What I'm good at
 
